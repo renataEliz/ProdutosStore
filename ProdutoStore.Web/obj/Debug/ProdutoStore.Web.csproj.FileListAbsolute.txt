@@ -1,0 +1,238 @@
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\ProdutoStore.Web.dll.config
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\ProdutoStore.Web.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\ProdutoStore.Web.pdb
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\csc.exe
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\csc.exe.config
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\csc.rsp
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\csi.exe
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\csi.exe.config
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\csi.rsp
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Console.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Net.Http.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\vbc.exe
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\vbc.exe.config
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\vbc.rsp
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\Antlr3.Runtime.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\EntityFramework.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\Newtonsoft.Json.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\ProdutoStore.Core.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\ProdutoStore.DA.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\ProdutoStore.Model.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\PrudutoStore.Implementacao.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\SimpleInjector.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Web.Helpers.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Web.Http.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Web.Mvc.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Web.Optimization.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Web.Razor.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Web.WebPages.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\WebGrease.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\ProdutoStore.Core.pdb
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\ProdutoStore.DA.pdb
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\ProdutoStore.DA.dll.config
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\ProdutoStore.Model.pdb
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\PrudutoStore.Implementacao.pdb
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\EntityFramework.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\SimpleInjector.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Web.Http.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Web.Helpers.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Web.Mvc.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Web.Optimization.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Web.Razor.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Web.WebPages.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\Newtonsoft.Json.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\obj\Debug\ProdutoStore.Web.csprojAssemblyReference.cache
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\obj\Debug\ProdutoStore.Web.csproj.CoreCompileInputs.cache
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\obj\Debug\ProdutoStore.Web.csproj.CopyComplete
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\obj\Debug\ProdutoStore.Web.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\obj\Debug\ProdutoStore.Web.pdb
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\ProdutoStore.Dto.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Web\bin\ProdutoStore.Dto.pdb
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\ProdutoStore.Web.dll.config
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\ProdutoStore.Web.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\ProdutoStore.Web.pdb
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\csc.exe
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\csc.exe.config
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\csc.rsp
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\csi.exe
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\csi.exe.config
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\csi.rsp
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Console.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Net.Http.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\vbc.exe
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\vbc.exe.config
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\vbc.rsp
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\Antlr3.Runtime.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\EntityFramework.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\Newtonsoft.Json.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\ProdutoStore.Core.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\ProdutoStore.DA.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\ProdutoStore.Dto.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\ProdutoStore.Model.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\PrudutoStore.Implementacao.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\SimpleInjector.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Web.Helpers.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Web.Http.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Web.Mvc.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Web.Optimization.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Web.Razor.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Web.WebPages.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\WebGrease.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\ProdutoStore.Core.pdb
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\ProdutoStore.DA.pdb
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\ProdutoStore.DA.dll.config
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\ProdutoStore.Dto.pdb
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\ProdutoStore.Model.pdb
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\PrudutoStore.Implementacao.pdb
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\EntityFramework.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\SimpleInjector.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Web.Http.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Web.Helpers.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Web.Mvc.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Web.Optimization.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Web.Razor.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Web.WebPages.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\Newtonsoft.Json.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\obj\Debug\ProdutoStore.Web.csprojAssemblyReference.cache
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\obj\Debug\ProdutoStore.Web.csproj.CoreCompileInputs.cache
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\obj\Debug\ProdutoStore.Web.csproj.CopyComplete
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\obj\Debug\ProdutoStore.Web.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\ProdutoStore.Web\obj\Debug\ProdutoStore.Web.pdb

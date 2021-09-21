@@ -1,0 +1,11 @@
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Core\bin\Debug\ProdutoStore.Core.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Core\bin\Debug\ProdutoStore.Core.pdb
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Core\bin\Debug\ProdutoStore.Model.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Core\bin\Debug\ProdutoStore.Model.pdb
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Core\obj\Debug\ProdutoStore.Core.csprojAssemblyReference.cache
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Core\obj\Debug\ProdutoStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Core\obj\Debug\ProdutoStore.Core.csproj.CopyComplete
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Core\obj\Debug\ProdutoStore.Core.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Core\obj\Debug\ProdutoStore.Core.pdb
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Core\bin\Debug\ProdutoStore.Dto.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Core\bin\Debug\ProdutoStore.Dto.pdb

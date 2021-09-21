@@ -1,0 +1,5 @@
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Model\bin\Debug\ProdutoStore.Model.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Model\bin\Debug\ProdutoStore.Model.pdb
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Model\obj\Debug\ProdutoStore.Model.csproj.CoreCompileInputs.cache
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Model\obj\Debug\ProdutoStore.Model.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Model\obj\Debug\ProdutoStore.Model.pdb

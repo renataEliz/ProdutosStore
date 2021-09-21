@@ -1,0 +1,26 @@
+C:\Users\Renata\source\repos\ProdutosStore\PrudutoStore.Implementacao\bin\Debug\PrudutoStore.Implementacao.dll
+C:\Users\Renata\source\repos\ProdutosStore\PrudutoStore.Implementacao\bin\Debug\PrudutoStore.Implementacao.pdb
+C:\Users\Renata\source\repos\ProdutosStore\PrudutoStore.Implementacao\bin\Debug\ProdutoStore.Core.dll
+C:\Users\Renata\source\repos\ProdutosStore\PrudutoStore.Implementacao\bin\Debug\ProdutoStore.Model.dll
+C:\Users\Renata\source\repos\ProdutosStore\PrudutoStore.Implementacao\bin\Debug\ProdutoStore.Core.pdb
+C:\Users\Renata\source\repos\ProdutosStore\PrudutoStore.Implementacao\bin\Debug\ProdutoStore.Model.pdb
+C:\Users\Renata\source\repos\ProdutosStore\PrudutoStore.Implementacao\obj\Debug\PrudutoStore.Implementacao.csprojAssemblyReference.cache
+C:\Users\Renata\source\repos\ProdutosStore\PrudutoStore.Implementacao\obj\Debug\PrudutoStore.Implementacao.csproj.CoreCompileInputs.cache
+C:\Users\Renata\source\repos\ProdutosStore\PrudutoStore.Implementacao\obj\Debug\PrudutoStore.Implementacao.csproj.CopyComplete
+C:\Users\Renata\source\repos\ProdutosStore\PrudutoStore.Implementacao\obj\Debug\PrudutoStore.Implementacao.dll
+C:\Users\Renata\source\repos\ProdutosStore\PrudutoStore.Implementacao\obj\Debug\PrudutoStore.Implementacao.pdb
+C:\Users\Renata\source\repos\ProdutosStore\PrudutoStore.Implementacao\bin\Debug\ProdutoStore.Dto.dll
+C:\Users\Renata\source\repos\ProdutosStore\PrudutoStore.Implementacao\bin\Debug\ProdutoStore.Dto.pdb
+C:\Users\Renata\source\repos\ProdutosStore - Copia\PrudutoStore.Implementacao\bin\Debug\PrudutoStore.Implementacao.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\PrudutoStore.Implementacao\bin\Debug\PrudutoStore.Implementacao.pdb
+C:\Users\Renata\source\repos\ProdutosStore - Copia\PrudutoStore.Implementacao\bin\Debug\ProdutoStore.Core.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\PrudutoStore.Implementacao\bin\Debug\ProdutoStore.Dto.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\PrudutoStore.Implementacao\bin\Debug\ProdutoStore.Model.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\PrudutoStore.Implementacao\bin\Debug\ProdutoStore.Core.pdb
+C:\Users\Renata\source\repos\ProdutosStore - Copia\PrudutoStore.Implementacao\bin\Debug\ProdutoStore.Dto.pdb
+C:\Users\Renata\source\repos\ProdutosStore - Copia\PrudutoStore.Implementacao\bin\Debug\ProdutoStore.Model.pdb
+C:\Users\Renata\source\repos\ProdutosStore - Copia\PrudutoStore.Implementacao\obj\Debug\PrudutoStore.Implementacao.csprojAssemblyReference.cache
+C:\Users\Renata\source\repos\ProdutosStore - Copia\PrudutoStore.Implementacao\obj\Debug\PrudutoStore.Implementacao.csproj.CoreCompileInputs.cache
+C:\Users\Renata\source\repos\ProdutosStore - Copia\PrudutoStore.Implementacao\obj\Debug\PrudutoStore.Implementacao.csproj.CopyComplete
+C:\Users\Renata\source\repos\ProdutosStore - Copia\PrudutoStore.Implementacao\obj\Debug\PrudutoStore.Implementacao.dll
+C:\Users\Renata\source\repos\ProdutosStore - Copia\PrudutoStore.Implementacao\obj\Debug\PrudutoStore.Implementacao.pdb

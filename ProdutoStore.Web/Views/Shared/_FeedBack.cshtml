@@ -1,0 +1,62 @@
+﻿@{
+    ICollection<string> erros = null;
+    if (TempData["Erros"] != null)
+    {
+        erros = TempData["Erros"] as ICollection<string>;
+    }
+
+    string sucesso = string.Empty;
+    if (TempData["Sucesso"] != null)
+    {
+        sucesso = TempData["Sucesso"] as string;
+    }
+
+    ICollection<string> avisos = null;
+    if (TempData["Avisos"] != null)
+    {
+        avisos = TempData["Avisos"] as ICollection<string>;
+    }
+}
+
+@if (erros != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <h4 class="alert-heading">Ocorreu um problema!</h4>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar">
+            <span aria-hidden="true">&times;</span>
+        </button>
+        <hr>
+        <ul>
+            @foreach (var erro in erros)
+            {
+                <li>@erro</li>
+            }
+        </ul>
+    </div>
+}
+else if (!string.IsNullOrEmpty(sucesso) && avisos != null && avisos.Any())
+{
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        @sucesso
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar">
+            <span aria-hidden="true">&times;</span>
+        </button>
+        <hr>
+        <ul>
+            @foreach (var aviso in avisos)
+            {
+                <li>@aviso</li>
+            }
+        </ul>
+    </div>
+}
+else if (!string.IsNullOrEmpty(sucesso))
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @sucesso
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+}
+

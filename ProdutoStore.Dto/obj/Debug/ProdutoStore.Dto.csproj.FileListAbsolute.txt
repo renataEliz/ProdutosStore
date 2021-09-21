@@ -1,0 +1,12 @@
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Dto\bin\Debug\ProdutoStore.Dto.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Dto\bin\Debug\ProdutoStore.Dto.pdb
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Dto\bin\Debug\ProdutoStore.Model.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Dto\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Dto\bin\Debug\ProdutoStore.Model.pdb
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Dto\obj\Debug\ProdutoStore.Dto.csprojAssemblyReference.cache
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Dto\obj\Debug\ProdutoStore.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Dto\obj\Debug\ProdutoStore.Dto.csproj.CopyComplete
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Dto\obj\Debug\ProdutoStore.Dto.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Dto\obj\Debug\ProdutoStore.Dto.pdb
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Dto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Renata\source\repos\ProdutosStore\ProdutoStore.Dto\bin\Debug\Newtonsoft.Json.xml
